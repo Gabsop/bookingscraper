@@ -8,6 +8,7 @@ npm-debug.*
 *.key
 *.mobileprovision
 *.orig.*
+*.xlsx
 web-build/
 
 # macOS
